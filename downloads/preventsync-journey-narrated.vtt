@@ -1,0 +1,19 @@
+WEBVTT
+
+00:00:00.350 --> 00:00:15.050
+PreventSync connects laboratory information, risk assessment, review planning, and prevention support. This proof of concept uses simulated data to explore regular, incomplete, and less reliable observations.
+
+00:00:16.350 --> 00:00:31.050
+Scan Pop ranks patients by their risk of developing diabetes within twelve months. Higher risk means earlier consideration for review, not a diagnosis. The dashboard compares this ranking with laboratory categories.
+
+00:00:32.350 --> 00:00:47.050
+Reach Out gives required checks priority, then fills remaining places by risk. With eighty places, the median paired gain was seven additional future cases compared with laboratory category ranking.
+
+00:00:48.350 --> 00:01:03.050
+Path Adapt chooses activities using preferences and feedback, with up to six offers over twelve weeks. Only discretionary-review participants enter this support simulation. Required-review patients are excluded.
+
+00:01:04.350 --> 00:01:19.050
+Path Adapt learns from returned feedback within preference groups, giving recent responses greater weight. It retains the fixed recommendation when evidence is insufficient. Missing feedback is not automatically counted as failure.
+
+00:01:20.350 --> 00:01:35.050
+Path Adapt achieved about two hundred and eighty-eight activities per hundred invitees, versus two hundred and seventy-four with fixed support. Offers were identical. These simulation gains need real-world validation.

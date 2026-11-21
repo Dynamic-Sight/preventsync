@@ -1,0 +1,13 @@
+PreventSync captioned journey. Synthetic evidence. Six chapters, 16 seconds each. No audio narration.
+
+Start with the information available. Laboratory results, patient history and visit records form the starting point. The simulation tests what happens when this information is regular, incomplete or less reliable. Illustration of the data flow; no real patient record is shown.
+
+Estimate who is at higher risk. ScanPop uses available information to rank patients by their risk of developing diabetes within 12 months. A higher rank means earlier consideration for review, not a diagnosis. Original simulation: median risk-ranking score 0.774 AUROC.
+
+Use the available review places. ReachOut reserves places for required clinical checks first. The remaining places go to patients ranked by ScanPop. Every scenario has 80 review places. Original simulation: a median of 24 future cases on the review list; median paired gain +7.
+
+Offer a suitable prevention activity. People selected for discretionary review enter the support simulation. PathAdapt uses preferences and previous responses to choose an activity. Each person can receive up to six offers in 12 weeks. People allocated required clinical checks are excluded from this support evaluation.
+
+Learn from the response. Returned completion feedback helps update recommendations within preference groups. Recent feedback receives greater weight. A fixed recommendation remains the fallback when evidence for a change is insufficient. Missing feedback is not automatically treated as a failed activity.
+
+Measure what changed. In the fresh PathAdapt evaluation, about 288 activities were completed per 100 invited people, compared with 274 under fixed support. Both used the same offer schedule. About 14 additional activities per 100 people. Simulation evidence; real-world benefit still needs testing.
